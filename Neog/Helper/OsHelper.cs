@@ -1,6 +1,6 @@
 ﻿namespace Neog;
 
-public class Helper
+public class OsHelper
 {
     public static bool IsWindows()
     {
